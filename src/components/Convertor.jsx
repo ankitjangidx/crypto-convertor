@@ -57,6 +57,7 @@ const Convertor = () => {
           <Form>
             <Form.Item>
               <Input
+                placeholder="Enter Amount To Convert"
                 allowClear="true"
                 bordered="true"
                 onChange={(e) => {
